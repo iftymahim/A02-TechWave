@@ -10,3 +10,21 @@
         font-family:  "Inter", sans-serif;
     }
 }
+
+/* .menubar{
+    visibility: hidden;
+}
+@media screen and (max-width:576px) {
+        .mobile-view{
+            display: none;
+            ;
+        }
+        nav{
+            display: flex;
+            justify-content: space-between;
+        }
+        .menubar{
+            visibility: visible;
+        }
+      
+} */
